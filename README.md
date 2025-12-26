@@ -1,4 +1,4 @@
-SocialNet Simulator README
+# SocialNet Simulator 
 
 This program, SocialNet, is a command-line simulator modeling the
 backend services for a social network. It is designed to demonstrate
